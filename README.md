@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Systems/Security/Network**
 
-- 🎮 My hobbies **Basketball, playing indie sim games, strategy game**
+- 🎮 My hobbies are **Basketball, playing indie sim games, strategy game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
