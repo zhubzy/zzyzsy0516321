@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Systems/Security/Network**
 
+- 🎮 My hobbies **Basketball, playing indie sim games, strategy game**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zzy0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zzy0516" height="30" width="40" /></a>
