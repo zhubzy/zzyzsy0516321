@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zach Zhong</h1>
-<h3 align="center">I enjoy web/mobile development, web scrapping, automating/exploiting everything I can think about.</h3>
+<h1 align="center">Hi 👋, I'm Zach Zhong. Current undergrad student @ UCSD.</h1>
+<h3 align="center">I enjoy web/mobile development, web scrapping, automating/exploiting everything I can think about. Check out my pinned repo for some of my intersting project.</h3>
 
 - 🔭 I’m currently working on **Algorithm Trading**
 
