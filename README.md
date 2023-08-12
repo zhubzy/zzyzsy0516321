@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach Zhong. Current undergrad student @ UCSD.</h1>
-<h3 align="center">I enjoy web/mobile development, web scrapping, automating/exploiting everything I can think about. Check out my pinned repo for some of my intersting project.</h3>
+<h3 align="center">I enjoy developing cool software ideas to automtate and make peoples lives easier.</h3>
 
-- 🔭 I’m currently working on **LLM project**
+- 🔭 I’m currently working on **LLM assistant**
 
 - 🌱 I’m currently learning **Devops skills**
 
